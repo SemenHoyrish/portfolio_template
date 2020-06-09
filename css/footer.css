@@ -1,0 +1,48 @@
+.footer {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 115px 0 122px 0;
+}
+.footer-title {
+    font-family: Gilroy Bold;
+    font-size: 34px;
+    line-height: 41px;
+    color: var(--Black);
+    margin: 0 0 20px 0;
+}
+.footer-text {
+    font-family: Gilroy Medium;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--Black);
+    margin: 0;
+}
+.footer-button {
+    border-radius: 48px;
+    padding: 13px 30px;
+    border: none;
+    background-color: var(--Black);
+    font-family: Gilroy Bold;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 30px 0 85px 0;
+}
+.footer-button:focus {
+    outline: none;
+}
+.footer-social {
+    margin-bottom: 45px;
+}
+.footer-social-link {
+    margin-right: 60px;
+}
+.footer-social-link:last-child {
+    margin: 0;
+}
+.footer-subtext {
+    font-family: Gilroy Medium;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--Gray);
+}

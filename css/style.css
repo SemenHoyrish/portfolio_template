@@ -1,0 +1,41 @@
+@import 'normalize.css';
+@import 'fonts.css';
+@import 'header.css';
+@import 'preview.css';
+@import 'about.css';
+@import 'skills.css';
+@import 'portfolio.css';
+@import 'footer.css';
+
+:root {
+    --Black: #070707;
+    --Gray: #828282;
+    --bgGray: #F6F6F6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 88px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 945px; */
+    margin: auto;
+}
+
+._active{
+    color: var(--Black);
+}
+
+.language {
+    font-family: Gilgory Bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--Gray);
+}

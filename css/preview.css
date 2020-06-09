@@ -1,0 +1,24 @@
+.preview {
+    background-color: #fff;
+    padding-bottom: 105px;
+}
+.preview-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.preview-name {
+    font-family: Gilroy Bold;
+    font-size: 48px;
+    line-height: 57px;
+    color: var(--Black);
+}
+.preview-description {
+    font-family: Gilgory Medium;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--Black);
+}
+.preview-text .language {
+    transform: rotate(-90deg);
+}

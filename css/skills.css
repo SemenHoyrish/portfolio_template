@@ -1,0 +1,41 @@
+.skills {
+    padding: 90px 0 110px 0;
+    text-align: center;
+    background-color: #fff;
+}
+.skills-title {
+    margin: 0 0 70px 0;
+    font-family: Gilroy Bold;
+    font-size: 34px;
+    line-height: 41px;
+    color: var(--Black);
+}
+.skills-text {
+    font-family: Gilroy Medium;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--Black);
+}
+.programs {
+    width: 945px;
+    margin-top: 84px;
+    display: flex;
+    justify-content: space-between;
+}
+.programs-item {
+    height: 206px;
+}
+.programs-item-name {
+    display: block;
+    font-family: Gilroy Bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--Gray);
+    margin: 24px auto 40px auto;
+}
+.programs-item-stars-star {
+    fill: #E5E5E5;
+}
+._star-active {
+    fill: var(--Black);
+}

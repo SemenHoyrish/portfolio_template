@@ -1,0 +1,24 @@
+.portfolio {
+    padding: 112px 0 96px 0;
+    background-color: var(--bgGray);
+    width: 100%;
+}
+.portfolio-title {
+    text-align: center;
+    font-family: Gilroy Bold;
+    font-size: 34px;
+    line-height: 41px;
+    color: var(--Black);
+    margin: 0 0 47px 0;
+}
+.portfolio-item {
+    text-align: center;
+}
+.portfolio-item-link {
+    display: block;
+    font-family: Gilroy Medium;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--Black);
+    margin: 45px 0 100px 0;
+}

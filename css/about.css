@@ -1,0 +1,20 @@
+.about {
+    text-align: center;
+    padding: 120px 0 108px 0;
+    background-color: var(--bgGray);
+    width: 100%;
+}
+.about-title {
+    margin: 0 0 18px 0;
+    font-family: Gilroy Bold;
+    font-size: 34px;
+    line-height: 41px;
+    color: var(--Black);
+}
+.about-text {
+    margin: 0;
+    font-family: Gilroy Medium;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--Black);
+}
